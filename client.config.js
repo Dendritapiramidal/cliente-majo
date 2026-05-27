@@ -7,7 +7,7 @@ export default {
   whatsapp: "sdfsdfdsfsd", email: "hola@hmail.com",
   instagram: "fdsfds", direccion: "san gernadno",
   hero: {
-    titulo:    "asdasdsa",
+    titulo:    "Majo asociados",
     subtitulo: "sda dasasdasdsadas",
     cta:       "Contactanos",
     imagen:    "/hero.jpg",
